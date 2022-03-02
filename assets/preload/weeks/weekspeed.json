@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"control",
+			"bonic",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "speed",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "speed.gif",
+	"weekName": "Speed week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
